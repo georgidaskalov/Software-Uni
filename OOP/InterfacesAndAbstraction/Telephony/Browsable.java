@@ -1,0 +1,5 @@
+package OOP.InterfacesAndAbstraction.Telephony;
+
+public interface Browsable {
+    public String browse();
+}
